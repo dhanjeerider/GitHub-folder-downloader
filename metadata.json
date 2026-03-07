@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Folder Downloader",
+  "description": "Download specific folders from any GitHub repository as a ZIP file without cloning the entire repo.",
+  "requestFramePermissions": []
+}
